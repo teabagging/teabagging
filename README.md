@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Elon Musk responded to criticism by verbally insulting the Facebook co-founder on X . Tesla CEO says Moskowitz is a 'retard', adding: 'I want to apologize to Dustin Moskowitz for calling him a 'retard'. That was wrong. I mean, He is an arrogant idiot who has his head so high that he is legally blind. I wish him the best and hope one day we can teabagging him.”Teabagging is a 21st century way of defending a company’s honor and resisting defamation.
+
+What is teabagging?
+teabagging coin is an unexpected cryptocurrency traditional movement that brings simpler times!
+
+Phase 1: Meme
