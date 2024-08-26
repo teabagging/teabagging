@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-基于您提供的长列表信息和一些额外的项目描述，我可以帮助您整理一个网站导航的Markdown文档示例。以下是一个结构化的导航文档，包含了您提供的部分信息和一些分类整理：
+
 
 ```markdown
 # 543x 项目导航
@@ -73,6 +73,5 @@ Here are some ideas to get you started:
   - [视频2](https://youtu.be/aQWflNQuP_o?si=Omr_ytvHoyS7VnDl)
 
 ## 联系我们
-- **邮箱**: hy0288@foxmail.com, clown123321@qq.com, hy18709665800@gmail.com, teabagging80@gmail.com
+- **邮箱**: hy18709665800@gmail.com
 
-这个导航文档试图将您提供的信息按类别整理，以便于用户浏览和查找相关信息。您可以根据需要进一步调整和扩展此文档。
